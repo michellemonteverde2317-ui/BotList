@@ -1,4 +1,4 @@
-# BotList
+me. BotList
 A package for easily updating your server count on all Discord bot lists.
 
 ## Getting Started
